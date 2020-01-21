@@ -1,0 +1,7 @@
+rust/target
+**/*.rs.bk
+**/input/
+**/inputs/
+**.stack-work/
+haskell/aoc2015.cabal
+*~
